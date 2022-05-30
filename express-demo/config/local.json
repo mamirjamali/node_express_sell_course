@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "express_demo_jwtPrivateKey",
+    "db": "mongodb://localhost/teachable"
+}
